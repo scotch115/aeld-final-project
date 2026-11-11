@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PATHFINDER
+	bool "pathfinder"
+	help
+	  Includes the Payload Data Transmit Protocol implementation and application
+	  code that will be utilized by the final project Linux driver.
