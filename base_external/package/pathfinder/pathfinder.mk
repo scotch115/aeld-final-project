@@ -1,7 +1,7 @@
 #######################
 # PATHFINDER AVIONICS #
 #######################
-PATHFINDER_VERSION = '1cbb5002b8d4e652e92d0dfde716e6b79c9595a2'
+PATHFINDER_VERSION = 'b35fb39e3b222af882743007bf6aac7305b4cf3b'
 # PATHFINDER_VERSION = 'main'
 PATHFINDER_SITE = 'git@github.com:scotch115/Pathfinder_Avionics.git'
 PATHFINDER_SITE_METHOD = git
